@@ -8,3 +8,4 @@
 | 13 | [RomanToInteger.kt](./src/easy/RomanToInteger.kt) | O(n)     | O(1)    | Right-to-left scan                    |
 | 14 | [LongestCommonPrefix.kt](./src/easy/LongestCommonPrefix.kt) | O(S)     | O(1)    | Horizontal scan                       |
 | 20 | [ValidParentheses.kt](./src/easy/ValidParentheses.kt) | O(n)     | O(n)    | Stack                                 |
+| 21 | [MergeTwoSortedLists.kt](./src/easy/MergeTwoSortedLists.kt) | O(n+m) | O(1) | Iterative dummy node |
