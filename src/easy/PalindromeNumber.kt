@@ -1,7 +1,7 @@
-/*
-Given an integer x, return true if x is a palindrome, and false otherwise.
+/* 
+Palindrome Number:
 
- 
+Given an integer x, return true if x is a palindrome, and false otherwise.
 
 Example 1:
 
@@ -26,10 +26,9 @@ Constraints:
  
 
 Follow up: Could you solve it without converting the integer to a string?
- */
 
-// PalindromeNumber.kt
-// https://leetcode.com/problems/palindrome-number/
+https://leetcode.com/problems/palindrome-number/
+ */
 
 class PalindromeNumber {
     fun isPalindrome(x: Int): Boolean {
